@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate in small web programming projects.
 - 📫 How to reach me:
 - (+57)3156606515
+- kioblack348@gmail.com
 
 <!---
 Ki0Black/Ki0Black is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
